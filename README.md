@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahbaj Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img src="logo.png" alt="logo" width="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbajalam&label=Profile%20views&color=0e75b6&style=flat" alt="shahbajalam" /> </p>
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, ReactJS, NextJS, MongoDB**
 
 - 📫 How to reach me **shahbajalam78@gmail.com**
 
